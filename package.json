@@ -1,0 +1,24 @@
+{
+  "name": "vue-learn",
+  "version": "1.0.0",
+  "description": "learn vue code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajiu9/vue-learn.git"
+  },
+  "keywords": [
+    "vue",
+    "learn",
+    "code"
+  ],
+  "author": "ajiu9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajiu9/vue-learn/issues"
+  },
+  "homepage": "https://github.com/ajiu9/vue-learn#readme"
+}
